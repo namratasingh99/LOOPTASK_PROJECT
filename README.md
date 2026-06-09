@@ -68,5 +68,15 @@ Task Posters can create and manage tasks, while Student Workers can browse avail
 Namrata Rajpoot
 Built as a full-stack web application using React and Supabase.
 ```bash
-git clone https://github.com/YOUR_USERNAME/Looptask.git
+git clone https://github.com/namratasingh99/Looptask.git
 cd Looptask
+
+
+
+
+
+
+
+
+
+
